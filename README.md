@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Usman Ali
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Kotlin
+- 👀 I’m interested in Frontend Web Development 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Angular JS
 - 📫 Reach me through gmail
-- 😄 Pronouns: Shani
-- ⚡ Fun fact: Sota bohat hu
+- ⚡ Fun fact: 
 
 <!---
 usmancout/usmancout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
