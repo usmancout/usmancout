@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Usman Ali
-- 👀 I’m interested in Frontend Web Development 
+- 👀 I’m interested in FullStack Web Development 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Angular JS
 - 📫 Reach me through gmail
