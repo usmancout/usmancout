@@ -1,22 +1,24 @@
-Hello, I'm Usman Ali
-💻 Full-Stack Web Developer passionate about building scalable, user-centric web applications.
+# Hello, I'm Usman Ali 👋  
+💻 **Full-Stack Web Developer** passionate about building scalable and user-centric web applications.
 
-About Me
-🌟 Expertise
+## 🛠️ About Me  
+🌟 **Expertise**  
+- **Full-Stack Web Development**: Crafting intuitive and responsive interfaces.  
+- **Backend Development**: Proficient in Python and Django, including REST APIs.  
 
-Full-Stack Web Development with a focus on intuitive interfaces.
-Backend development using Python and Django, including REST APIs.
-🚀 Current Focus
+🚀 **Current Focus**  
+- Mastering **Django** for backend efficiency.  
+- Advancing **Angular** skills for seamless frontend integration.  
 
-Mastering Django for backend solutions.
-Enhancing Angular skills for seamless frontend integration.
-🤝 Collaboration
+🤝 **Collaboration Goals**  
+- Open to collaborating on **Angular** and **Django** projects to deliver impactful solutions.  
 
-Open to Angular and Django projects to deliver impactful solutions.
-📬 Contact
+## 📬 Contact Me  
+- **Email**: [usman.cout@gmail.com](mailto:usman.cout@gmail.com)  
+- **Discord**: [Join my Discord](https://discord.gg/P2mxyyMh)  
 
-Email: usman.cout@gmail.com
-Discord: https://discord.gg/P2mxyyMh
-⚡ Fun Fact
-I enjoy exploring emerging tech and solving real-world challenges creatively.
+⚡ **Fun Fact**  
+I love exploring emerging technologies and creatively solving real-world challenges.  
 
+---
+*Let’s connect and create something amazing!*
