@@ -1,43 +1,54 @@
-# Hello, I'm Usman Ali!  
-💻 **Full-Stack Web Developer** passionate about building scalable and user-centric web applications.  
+<h1 align="center">👋 Hello, I'm Usman Ali</h1>
 
-## 🛠️ About Me  
-🌟 **Expertise**  
-- **Full-Stack Web Development**: Crafting intuitive and responsive interfaces.  
-- **Backend Development**: Proficient in Python and Django, including REST APIs.  
-
-🚀 **Current Focus**  
-- Mastering **Django** for backend efficiency.  
-- Advancing **Angular** skills for seamless frontend integration.  
-
-🤝 **Collaboration Goals**  
-- Open to collaborating on **Angular** and **Django** projects to deliver impactful solutions.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=08F7FE&center=true&vCenter=true&width=500&lines=OSINT+Analyst;Python+Automation+Specialist;Public+Data+Investigator;Dark+Web+Researcher;Open-Source+Intelligence+Expert" alt="Typing SVG" />
+</p>
 
 ---
 
+## 🕵️‍♂️ About Me  
+
+📍 **Location:** Lahore, Pakistan  
+🎯 **Role:** OSINT Analyst at *Orion Intelligence*  
+📧 **Email:** [usman.cout@gmail.com](mailto:usman.cout@gmail.com)
+
+I’m a **dedicated OSINT Analyst** skilled in public data investigations, breach validations, dark web research, and developing Python automation scripts for intelligence gathering. I turn scattered online footprints into actionable, precise intelligence for operational decision-making.
+
+---
+
+## 📊 Professional Snapshot  
+
+| 📌 Key Strengths                  | 🔧 Tools & Technologies                          |
+|:----------------------------------|:------------------------------------------------|
+| Open-Source Intelligence (OSINT) | Python (Pandas, NumPy, Requests, BeautifulSoup) |
+| Dark Web & Leaked Data Research   | OSINT Framework, Have I Been Pwned              |
+| Python Automation & API Integration | JIRA, PyCharm, VS Code, Google Colab           |
+| Data Analysis & Visualization    | Matplotlib, Seaborn, Scikit-learn               |
+
+---
+
+## 📈 My GitHub Stats  
+
 <div align="center">
 
-## 🛠️ Skills  
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-</div>  
+<img src="https://github-readme-stats.vercel.app/api?username=usmancout&show_icons=true&theme=algolia&hide_border=true" alt="Usman's GitHub Stats" width="49%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usmancout&theme=algolia&hide_border=true" alt="Usman's GitHub Streak" width="49%"/>
 
 </div>
 
 ---
 
+## 📊 Languages & Tools Usage  
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmancout&layout=compact&theme=algolia&hide_border=true" width="60%" alt="Most Used Languages"/>
+</div>
+
+---
 
 ## 📬 Connect With Me  
-<div>
+
+<p align="center">
   <a href="https://instagram.com/usmancout" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -50,18 +61,15 @@
   <a href="https://discord.com/invite/P2mxyyMh" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</div>  
+</p>
 
+---
+
+## 📖 Thought for Investigators  
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=FF5C8D&center=true&vCenter=true&width=500&lines=In+the+digital+world%2C+clues+never+die.;What+you+seek+is+out+there%2C+hidden+in+plain+sight." alt="Typing SVG"/>
 </div>
 
 ---
 
-<div align="center" style="background-color: #141321; padding: 20px; border-radius: 10px; color: #ffffff; font-family: Poppins, Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-  <h2 style="font-size: 24px; font-weight: 600; color: #a9fef7; margin-bottom: 20px;">
-    Random Dev Quote
-  </h2>
-  <h3 style="font-size: 20px; font-weight: 500; color: #a9fef7; font-style: italic;">
-    "Everything that can be imagined, can be programmed !!."
-  </h3>
-  <p style="color: #fe428e; text-align: right;">- XYZ</p>
-</div>
