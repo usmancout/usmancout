@@ -12,7 +12,7 @@
 🎯 **Role:** OSINT Analyst at *Orion Intelligence*  
 📧 **Email:** [usman.cout@gmail.com](mailto:usman.cout@gmail.com)
 
-I’m a **dedicated OSINT Analyst** skilled in public data investigations, breach validations, dark web research, and developing Python automation scripts for intelligence gathering. I turn scattered online footprints into actionable, precise intelligence for operational decision-making.
+I’m a **dedicated OSINT Analyst** skilled in public data investigations, breach validations and developing Python automation scripts for intelligence gathering. I turn scattered online footprints into actionable, precise intelligence for operational decision-making.
 
 ---
 
