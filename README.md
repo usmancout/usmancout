@@ -8,7 +8,7 @@
 
 ## 🤖 About Me  
 
-📍 **Location:** Lahore, Pakistan  
+📍 **Location:** Islamabad, Pakistan  
 🎯 **Role:** Agentic AI Engineer | AI Engineer at *Orion Intelligence*  
 📧 **Email:** [usmanali.swe@gmail.com](mailto:usmanali.swe@gmail.com)
 
